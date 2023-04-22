@@ -1,6 +1,6 @@
 # Google Ordering System 
 
-##### Demo https://kazenoyumex.github.io/Google-Ordering-System/
+### Demo https://kazenoyumex.github.io/google-ordering-system
 
 ### Use Excel url
 ```
